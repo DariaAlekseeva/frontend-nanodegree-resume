@@ -1,3 +1,5 @@
+To see my resume in browser click [here](http://bl.ocks.org/DariaAlekseeva/raw/26a683172336b1fd8111/).
+
 ## How do I complete this project?
 
 1. Go to the [Javascript Basics course](https://www.udacity.com/course/ud804) and select "View Course Materials."
