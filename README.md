@@ -1,4 +1,4 @@
-To see my resume in browser click [here](http://bl.ocks.org/DariaAlekseeva/raw/26a683172336b1fd8111/).
+To see my resume in browser click [here](http://bl.ocks.org/DariaAlekseeva/raw/c58df25c4cded4d1a678/).
 
 ## How do I complete this project?
 
